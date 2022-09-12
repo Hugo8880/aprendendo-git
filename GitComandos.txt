@@ -1,0 +1,12 @@
+git add ""
+git add .  # Adiciona todos os novos arquivos para commit.
+
+git commit -m ""  # Serve para enviar commit/cópia do código, "commit inicial" para o primeiro commit.
+git remote add origin [Link do repósitorio]
+git push
+
+git reflog  # Verificar versões/updates do código e seus IDs.
+git reset --hard [id]  # Restaura uma versão anterior pelo ID.
+
+https://github.com/Hugo8880/aprendendo-git/tree/master
+https://github.com/Hugo8880/aprendendo-git/tree/main
